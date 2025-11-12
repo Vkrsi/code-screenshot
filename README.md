@@ -1,16 +1,23 @@
-# Code Screenshot (Trusted by 20K+ users)
+## 📸 Code Screenshot (Trusted by 25K+ Developers)
 
 <img width="1418" height="696" alt="image" src="https://github.com/user-attachments/assets/9254f804-2bbb-43b8-a518-b71dde63ae25" />
 
-New Feature: Github Gist to Code Screenshot
+### 🚀 New Feature: Convert **GitHub Gist → Code Screenshot**
 
-When you add vkrsi to the Github Gist URL, it should open a page with a screenshot for copying.
+You can now instantly generate a code screenshot from any GitHub Gist — just replace **`github`** with **`vkrsi`** in the URL.
 
-Example: https://gist.github.com/ahoward/1105733
+**Example:**  
+Original Gist → `https://gist.github.com/ahoward/1105733`  
+Screenshot View → `https://gist.vkrsi.com/ahoward/1105733`
 
-To generate, use vkrsi instead of github in the URL: https://gist.vkrsi.com/ahoward/1105733
+---
 
-If you want any feature added to the code screenshot app or are having a problem, please create a new issue.
+💡 **Got feedback or feature requests?**  
+Create a new issue to share your suggestions or report problems related to [cs.vkrsi.com](https://cs.vkrsi.com).
 
-Tracking issues related to cs.vkrsi.com
+📢 **Want to advertise?**  
+Reach out at **admin@vkrsi.com**
 
+---
+
+Part of the **tiny projects** initiative by [vkrsi.com](https://vkrsi.com)
